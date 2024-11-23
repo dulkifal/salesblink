@@ -18,25 +18,7 @@ This project is a web application designed for building and scheduling automated
 * **Scheduling:** Saving the flowchart automatically schedules emails based on wait time defined in "Wait/Delay" nodes.
 * **API:** A backend API allows scheduling individual emails with defined content, subject, and recipient.
 
-### Bonus Features (Not Implemented Yet)
 
-* **Authentication:** User login and access control for secure usage.
-* **Unit Tests:** Automated tests to ensure code functionality.
-* **Documentation:** Comprehensive documentation for developers and users.
-* **Deployment:** Deployment script and instructions for hosting on free platforms.
-
-### Evaluation Criteria
-
-This project will be evaluated based on the following criteria:
-
-* **Functionality:** Meets all outlined functionalities, including API access.
-* **Code Quality:** Clean, well-commented, and modular codebase.
-* **User Experience:** Intuitive and user-friendly interface with clear instructions.
-* **Scalability:** Architecture and database design consider future growth.
-
-### Getting Started
-
-1. Clone this repository: `git clone https://github.com/<your-username>/email-sequence-builder.git`
 2. Install dependencies: `npm install`
 3. Configure database and email service credentials (see configuration files).
 4. Run the application: `npm start`
